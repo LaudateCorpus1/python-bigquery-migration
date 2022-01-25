@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0](https://github.com/googleapis/python-bigquery-migration/compare/v0.2.1...v0.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#34](https://github.com/googleapis/python-bigquery-migration/issues/34)) ([124de81](https://github.com/googleapis/python-bigquery-migration/commit/124de81e97b39694433820678704b3f6079ce1e2))
+* Add task details and orchestration result details ([#32](https://github.com/googleapis/python-bigquery-migration/issues/32)) ([44c10e1](https://github.com/googleapis/python-bigquery-migration/commit/44c10e17767135b7a5c9a5e22b82260be75459b1))
+
 ### [0.2.1](https://www.github.com/googleapis/python-bigquery-migration/compare/v0.2.0...v0.2.1) (2021-11-01)
 
 
